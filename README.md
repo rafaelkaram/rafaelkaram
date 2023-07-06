@@ -24,5 +24,5 @@ Tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas pela UFPR. 
   <img align="center" alt="Rafael-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-<!--![Snake animation](https://github.com/larissadantier/larissadantier/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/rafaelkaram/rafaelkaram/blob/output/github-contribution-grid-snake.svg) 
 
